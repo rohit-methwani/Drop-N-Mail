@@ -1,0 +1,80 @@
+/*--------------General CSS-----------------*/
+
+
+.button-general{
+	-fx-background-color:rgba(52,198,211,0.5);
+	-fx-border-radius:3px;
+}
+
+.textfield{
+	-fx-background-color:rgb(255,255,255,0);
+	-fx-font-family:Ubuntu,sans-serif;
+	-fx-text-inner-color:#4c5c61;
+	-fx-font-size:17px;
+	
+}
+
+.label{
+	-fx-font-family:Ubuntu;
+	-fx-font-size:45px;
+}
+/*--------------Styles for frontpage.fxml-----------------*/
+
+.header{
+	-fx-background-color: #fff;
+}
+
+.rootpane{
+	-fx-background-color:#fff;
+}
+
+.login{
+	-fx-background-color:rgba(52,198,211,0.2);
+}
+
+.mainlogo{
+	-fx-graphic: url("../images/paper-plane.png");
+	-fx-font-family:Ubuntu;
+	-fx-font-size:45px;
+	-fx-text-fill:#34c6d3;
+}
+
+.division{
+	-fx-background-color:#4c5c61;
+}
+
+.side-gif{
+	-fx-graphic:url("../images/portfolium_illos.gif");
+}
+
+.welcome{
+	-fx-font-size:30px;
+}
+
+/*--------------Styles for DropNMail.fxml-----------------*/
+.email-text{
+	-fx-font-size:15px;
+}
+
+
+.logo-small{
+	-fx-graphic: url("../images/paper-plane-sm.png");
+	-fx-font-family:Ubuntu;
+	-fx-font-size:28px;
+	-fx-text-fill:#34c6d3;
+}
+
+.mainbackground{
+	-fx-background-color: #fff;
+	-fx-background-image: url("../images/main-background.png") center center no-repeat;
+	-fx-background-position:center center;
+}
+
+.header-break{
+	-fx-background-color:#34c6d3;
+}
+
+.notification{
+	-fx-font-size:15px;
+	-fx-text-fill:#3cb371;
+}
