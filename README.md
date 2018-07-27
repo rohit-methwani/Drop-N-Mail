@@ -1,5 +1,5 @@
 # Drop-N-Mail
-This is a simple java based application which lets you to send files with just dragging and dropping it!.This uses the JavaFX for User interface.
+This is a simple java based application which lets you to send files through email with just dragging and dropping it!.This uses the JavaFX for User interface.
 
 Sending Email using Java:
 The email is being sent using mail.jar and activation.jar libraries.These libraries provides the required classes to send an email.Using these files,this application is able to send the emails.
